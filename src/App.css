@@ -1,0 +1,25 @@
+/* src/App.css */
+
+nav {
+  background-color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  display: block;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #555;
+}
